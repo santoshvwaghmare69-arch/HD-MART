@@ -1,0 +1,6 @@
+{
+  "name": "HD MART",
+  "description": "हाई डिस्काउंट मार्ट · ऑनलाइन किराना - Indian Kirana & Grocery Store with Smart Cart and Shop Manager",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
